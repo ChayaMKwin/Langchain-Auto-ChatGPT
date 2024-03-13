@@ -1,4 +1,4 @@
-# Langchein-Auto-ChatGPT
+# Langchain-Auto-ChatGPT
 ## YouTube GPT Creator
 
 YouTube GPT Creator, a Streamlit application designed to automate the process of generating YouTube video titles and scripts using advanced language models from LangChain and Wikipedia research. This application leverages the power of OpenAI's language models to generate creative, engaging content based on user inputs.
